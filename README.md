@@ -13,7 +13,7 @@ SIEM tools and Network analyzers
 -> TcpDump or Wireshark (Packet sniffers)
 -> SIEM tools like Splunk or Chronicle 
 
-#Documentations included above:
+# Documentations included above:
 Worked on Certain Documentation for better communication in Security. They Include.
 -> Incident Documentation and Analysis reports include: Incident reports, Network traffic logs, 
 risk assessments
